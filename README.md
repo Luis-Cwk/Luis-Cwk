@@ -1,4 +1,4 @@
-# Hi! I'm Petra 👋
+# Hi! I'm Petra 
 
 **Creative Coder & Multidisciplinary Artist**
 
