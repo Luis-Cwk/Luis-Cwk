@@ -25,13 +25,14 @@ I work at the convergence of **dance, computer vision, and critical theory**, cr
 - Biometric data visualization and artistic interpretation
 
 **Creative Coding**
-- Open-source tools for movement analysis (Python, Three.js, PyTorch)
+- Agentes de IA personalizados
+- Open-source tools for movement analysis 
 - TouchDesigner and VVVV for audiovisual performance
-- Local processing systems (no cloud) for data sovereignty
+- Local processing systems for data sovereignty
 
 **Motion Analysis**
-- Laban Movement Analysis implementation
-- Pose estimation (33 body landmarks, 478 facial landmarks)
+- Laban Movement Analysis 
+- Pose estimation
 - Hand tracking and gesture recognition
 
 **Critical Technology**
@@ -46,8 +47,7 @@ I work at the convergence of **dance, computer vision, and critical theory**, cr
 ### Cuerpos Soberanos / Sovereign Bodies (2025-2026)
 Interactive installation exploring bodily sovereignty against algorithmic surveillance. Uses real-time motion capture to transform body into generative visual data, questioning who controls the gaze in an era of pervasive digital monitoring.
 
-- **Tech:** MediaPipe, Python, OpenCV, Three.js, TouchDesigner
-- **Exhibitions:** Aavistus Festival (Helsinki), PLAC (Guadalajara), MIM (Santiago)
+- **Tech:** Langchain, Streamdiffusion, MediaPipe, Python, OpenCV, Three.js, 
 
 ### Kinetics of Bodies, Branches and Circuits (2025)
 Audiovisual project exploring generative choreography based on movement improvisation in dialogue with technology. Constructed as a developing score where spontaneity of body is translated into real-time visuals, creating an immersive and constantly transforming aesthetic experience.
@@ -56,7 +56,7 @@ Audiovisual project exploring generative choreography based on movement improvis
 - **Description:** Reflection on how our bodies can be seen as extensions of a broader, universal system through the fusion of dance and technology
 
 ### Bodies That Dance Alone (2025)
-Generative video-dance piece investigating how human movement becomes information.
+Generative screendance piece investigating how human movement becomes information.
 
 - **Video:** [Watch here](https://videodance.webs.upv.es/video/bodies-that-dance-alone-petra-mexico-2025-445/)
 
@@ -65,10 +65,6 @@ Digital art series exploring identity and the digital other.
 
 - **Platform:** [Daily.xyz](https://daily.xyz/artwork/petra-daily-program-season-1-about-the-other-us/)
 
-### Vectofascismo (2024-2025)
-Visual series examining power structures through vector graphics and motion.
-
----
 
 ## 🌱 Currently Learning
 
@@ -83,10 +79,7 @@ Visual series examining power structures through vector graphics and motion.
 ## 🏛️ Exhibitions & Festivals
 
 **Major Institutions & Museums**
-Museo de Arte Moderno MX | Salón de la Plástica Mexicana | Museo Chiapas de Ciencia y Tecnología
-
-**International Festivals**
-CVPR Art Gallery | Bitcoin Unleashed Amsterdam | ASVOFF 16 | Miami Art Week | Super Chief Gallery | Free The Kitsch Festival | Art Crush Gallery | China International Conference of Science and Education Producers | IDOCDE.net | London Fashion Week | NFT Festa | NFT NYC | Plexus Projects | Aavistus Festival (2026) | InSILo - Austria (2026) | EnProceso - Costa Rica (2026) | MIVA Festival
+Museo de Arte Moderno MX | Salón de la Plástica Mexicana | Museo Chiapas de Ciencia y Tecnología | CVPR Art Gallery | Bitcoin Unleashed Amsterdam | ASVOFF 16 | Miami Art Week | Super Chief Gallery | Free The Kitsch Festival | Art Crush Gallery | China International Conference of Science and Education Producers | IDOCDE.net | London Fashion Week | NFT Festa | NFT NYC | Plexus Projects | Aavistus Festival (2026) | InSILo - Austria (2026) | EnProceso - Costa Rica (2026) | MIVA Festival
 
 **Performance & Dance**
 Nadére Arts Vivants | Baal Dance Company (Spain) | Encuentro Nacional de Danza | Festival Extremadura | Festival Onesimo González | FIDCCDMX
