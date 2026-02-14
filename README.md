@@ -114,7 +114,6 @@ Bright Moments Art Gallery | Refraction DAO
 
 **Creative Software**
 ![TouchDesigner](https://img.shields.io/badge/TouchDesigner-000000?style=for-the-badge)
-![Max/MSP](https://img.shields.io/badge/Max/MSP-522E91?style=for-the-badge)
 
 **Web & Blockchain**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -136,54 +135,22 @@ Smart contract platforms for high-value digital art and generative collections:
 [![Nifty Gateway](https://img.shields.io/badge/NiftyGateway-000000?style=for-the-badge&logo=ethereum&logoColor=white)](https://www.niftygateway.com/collections/fracturedfacades-le)
 [![OpenSea](https://img.shields.io/badge/OpenSea-2081E2?style=for-the-badge&logo=opensea&logoColor=white)](https://opensea.io/0xe99c3ecbc68868602cf558325bc6ab6a9807dfa9)
 
-**ETH Wallet:** `0xE99c3Ecbc68868602CF558325BC6ab6A9807dFa9`
-
 ### 🟨 Bitcoin (BTC)
-Bitcoin-native assets using Ordinals, Stamps, and Counterparty protocols:
+Bitcoin-native assets using Ordinals, Stamps:
 
 [![Gamma](https://img.shields.io/badge/Gamma-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)](https://beta.gamma.io/petra/)
 [![Scarce City](https://img.shields.io/badge/ScarceCity-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)](https://scarce.city/auctions/stamp-16944-01)
 [![PepeWTF](https://img.shields.io/badge/PepeWTF-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)](https://pepe.wtf/1L64Zam9tD/collection/stamps)
 
 ### 🔷 Tezos (XTZ)
-Eco-friendly NFT marketplace for accessible digital art:
 
 [![Objkt](https://img.shields.io/badge/Objkt-0D61FF?style=for-the-badge&logo=tezos&logoColor=white)](https://objkt.com/profile/tz1cSxrvsct9FC33dCMwQGQkcwwHirHV1DzX/created)
-
-**Tezos Wallet:** `tz1cSxrvsct9FC33dCMwQGQkcwwHirHV1DzX`
 
 ---
 
 ## 💡 Artistic Statement
 
 > *"My practice explores the intersection of body, technology, and data sovereignty. I work at the convergence of dance, computer vision, and critical theory, creating interactive installations that interrogate how algorithmic systems capture and commodify human movement. I develop experimental platforms using open-source technologies to democratize access to motion analysis tools while maintaining ethical principles of local data processing and privacy."*
-
----
-
-## 📁 Collections Overview
-
-### 🔷 Ethereum-Based Works
-- **About The Other Us** - AI-generated portraits exploring digital identity
-- **Vectofascismo** - Political commentary through vector graphics
-- **ChingonX** - NFT activism and derivative works
-- **Fractured Facades** - Architecture and fragmentation series
-- **Genes** - Biological and generative coding explorations
-- **MoveInPrompts** - Movement-based AI prompt collections
-- **Genes V3** - Evolution of biological generative art
-- **AI** - Artificial intelligence experiments
-- **Yapayaso** - Cultural meme and generative works
-- **Gen Art** - Generative art curation
-
-### 🟨 Bitcoin Ecosystem
-- **Collective Consciousness** - On-chain collective memory
-- **Cypher - Infinite Environment** - Bitcoin-native generative environments
-- **Pixel Cascade** - Ordinal pixel art series
-- **Stamps & Ordinals** - Immutable on-chain digital artifacts
-
-### 🔷 Tezos Works
-- **2554Cai** - Clean NFT generative experiments
-- **Ki** - Minimalist generative art
-- **Color Studies in Motion** - Animated color theory works
 
 ---
 
