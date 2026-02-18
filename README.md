@@ -152,6 +152,3 @@ Bitcoin-native assets using Ordinals, Stamps:
 
 > *"My practice explores the intersection of body, technology, and data sovereignty. I work at the convergence of dance, computer vision, and critical theory, creating interactive installations that interrogate how algorithmic systems capture and commodify human movement. I develop experimental platforms using open-source technologies to democratize access to motion analysis tools while maintaining ethical principles of local data processing and privacy."*
 
----
-
-*"Una estética que abraza la imperfección, la corrupción de datos y la materialidad de lo digital."*
