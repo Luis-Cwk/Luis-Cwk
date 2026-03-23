@@ -33,7 +33,7 @@ I work at the convergence of **dance, computer vision, and critical theory**, cr
 
 **Smart Contracts & Web3**
 - Solidity (OpenZeppelin v5, Hardhat) for NFT minting platforms
-- Base L2 deployment for generative videodance
+- L2 deployment for generative videodance
 - Art Blocks integration with motion capture data
 - Next.js + RainbowKit + Wagmi frontend for Web3 art
 
@@ -52,7 +52,7 @@ I work at the convergence of **dance, computer vision, and critical theory**, cr
 ## 🎨 Featured Projects
 
 ### videodanza-nft (2026)
-Generative videodance platform with on-chain NFT minting on Base. Each performance creates unique generative visuals from body movement, minted as 1/1 pieces.
+Generative videodance platform with on-chain NFT minting. Each performance creates unique generative visuals from body movement, minted as 1/1 pieces.
 
 - **Tech:** Next.js 14, TypeScript, Solidity, Hardhat, RainbowKit, Wagmi, MediaPipe
 - **Stack:** Full-stack Web3 — frontend + smart contracts (OpenZeppelin v5)
@@ -60,7 +60,7 @@ Generative videodance platform with on-chain NFT minting on Base. Each performan
 ### SomaAgent (2026)
 Autonomous on-chain agent that continuously converts motion data into generative art without human intervention.
 
-- **Tech:** Python, MediaPipe, Solidity, Base blockchain
+- **Tech:** Python, MediaPipe, Solidity, blockchain
 
 ### Cuerpos Soberanos / Sovereign Bodies (2025-2026)
 Interactive installation exploring bodily sovereignty against algorithmic surveillance. Uses real-time motion capture to transform body into generative visual data, questioning who controls the gaze in an era of pervasive digital monitoring.
@@ -185,10 +185,10 @@ Eco-friendly NFT marketplace for accessible digital art:
 
 **Tezos Wallet:** `tz1cSxrvsct9FC33dCMwQGQkcwwHirHV1DzX`
 
-### 🔵 Base (L2)
+### 🔵 Blockchain
 Generative videodance minted on-chain via custom smart contracts:
 
-- videodanza-nft: Generative videodance platform with NFT minting on Base Sepolia
+- videodanza-nft: Generative videodance platform with NFT minting
 
 ---
 
