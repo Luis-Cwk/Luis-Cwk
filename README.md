@@ -1,4 +1,4 @@
-# Petra · Luis Betancourt Núñez
+# Petra 
 
 **Artist · Choreographer · Creative Coder**  
 Ciudad de México · [petrasynthetic.com](https://petrasynthetic.com) · [dfrmnc22@gmail.com](mailto:dfrmnc22@gmail.com)
