@@ -1,228 +1,137 @@
-# Hi! I'm Petra 👋
+# Petra · Luis Betancourt Núñez
 
-**Creative Coder & Multidisciplinary Artist**
-
-I explore the intersection of **body, technology, and data sovereignty** through interactive installations, motion capture, and generative art. My practice transforms human movement into visual and sonic experiences that question algorithmic surveillance and reclaim bodily autonomy.
-
----
-
-## 👨‍💻 About Me
-
-🎓 **Background:** 10+ years working in digital arts and new media
-🎨 **Practice:** Interactive installations, video-dance, creative coding, motion analysis
-💻 **Current Focus:** Building tools that democratize motion analysis while maintaining data privacy — generative videodance platforms, autonomous motion-to-art agents, and smart contracts for digital art
-🌎 **Languages:** Native Spanish, Conversational English
-
-I work at the convergence of **dance, computer vision, and critical theory**, creating experiences that interrogate how algorithmic systems capture and commodify human movement. My approach combines rigorous technical implementation with somatic awareness and political reflection.
+**Artist · Choreographer · Creative Coder**  
+Ciudad de México · [petrasynthetic.com](https://petrasynthetic.com) · [dfrmnc22@gmail.com](mailto:dfrmnc22@gmail.com)
 
 ---
 
-## 🔍 What I Work On
+> *¿Qué ocurre cuando el cuerpo se convierte en dato? ¿Quién captura ese movimiento, quién lo posee, y qué formas de resistencia caben dentro del código?*
 
-**Interactive Installations**
-- Real-time motion capture using AI, MediaPipe, OpenCV, and custom Python pipelines
-- Generative visuals and spatial audio composition
-- Biometric data visualization and artistic interpretation
+My practice operates at the intersection of **contemporary dance, computer vision, and critical theory**. I build interactive installations, autonomous agents, and generative platforms that interrogate how algorithmic systems capture and commodify human movement — while simultaneously developing open, privacy-first tools that return that power to the body.
 
-**Creative Coding & AI Agents**
-- Agentes de IA personalizados
-- Autonomous agents that convert movement into art on-chain (SomaAgent)
-- Open-source tools for movement analysis
-- TouchDesigner, SuperCollider, and audiovisual performance
-- Local processing systems for data sovereignty
-
-**Smart Contracts & Web3**
-- Solidity (OpenZeppelin v5, Hardhat) for NFT minting platforms
-- L2 deployment for generative videodance
-- Art Blocks integration with motion capture data
-- Next.js + RainbowKit + Wagmi frontend for Web3 art
-
-**Motion Analysis**
-- Laban Movement Analysis 
-- Pose estimation
-- Hand tracking and gesture recognition
-
-**Critical Technology**
-- Algorithmic surveillance and its impact on bodies
-- Data sovereignty and privacy in artistic contexts
-- Ethics of biometric data collection
+I treat technology as **performative and process-visible**, not merely productive. The pipeline is part of the piece.
 
 ---
 
-## 🎨 Featured Projects
+## Active Projects
 
-### videodanza-nft (2026)
-Generative videodance platform with on-chain NFT minting. Each performance creates unique generative visuals from body movement, minted as 1/1 pieces.
+### [Cuerpos Soberanos: Agente](https://petrasynthetic.com) · 2025–2026
+Interactive installation exploring data sovereignty over the moving body. A local AI agent (no cloud, no external logging) processes real-time pose estimation and generates diffused visual responses — making visible the gap between what a body does and what a system sees.
 
-- **Tech:** Next.js 14, TypeScript, Solidity, Hardhat, RainbowKit, Wagmi, MediaPipe
-- **Stack:** Full-stack Web3 — frontend + smart contracts (OpenZeppelin v5)
+`MediaPipe` · `LangChain` · `Ollama / Qwen` · `ViViT` · `StreamDiffusion` · `Python` · `OpenCV`
 
-### SomaAgent (2026)
-Autonomous on-chain agent that continuously converts motion data into generative art without human intervention.
+---
 
-- **Tech:** Python, MediaPipe, Solidity, blockchain
+### [videodanza-nft](https://videodanza-nft.vercel.app) · 2026
+Full-stack generative art platform on Base. Each performance generates unique visuals from live movement data, minted as 1/1 on-chain pieces via custom smart contracts.
 
-### Cuerpos Soberanos / Sovereign Bodies (2025-2026)
-Interactive installation exploring bodily sovereignty against algorithmic surveillance. Uses real-time motion capture to transform body into generative visual data, questioning who controls the gaze in an era of pervasive digital monitoring.
+`Next.js 14` · `TypeScript` · `Solidity` · `Hardhat` · `OpenZeppelin v5` · `RainbowKit` · `Wagmi` · `MediaPipe`
 
-- **Tech:** Langchain, Streamdiffusion, MediaPipe, Python, OpenCV, Three.js, 
+---
 
-### Kinetics of Bodies, Branches and Circuits (2025)
-Audiovisual project exploring generative choreography based on movement improvisation in dialogue with technology. Constructed as a developing score where spontaneity of body is translated into real-time visuals, creating an immersive and constantly transforming aesthetic experience.
+### [SomaAgent](https://petrasynthetic.com) · 2026
+Autonomous on-chain agent that continuously converts motion data into generative art without human intervention. The agent runs, reads the body, mints the result.
 
-- **Platform:** [Manifold](https://manifold.xyz/@petra/p/kinetics)
-- **Description:** Reflection on how our bodies can be seen as extensions of a broader, universal system through the fusion of dance and technology
+`Python` · `MediaPipe` · `Solidity` · `Base`
 
-### Bodies That Dance Alone (2025)
-Generative screendance piece investigating how human movement becomes information.
+---
 
-- **Video:** [Watch here](https://videodance.webs.upv.es/video/bodies-that-dance-alone-petra-mexico-2025-445/)
+### [Kinetics of Bodies, Branches and Circuits](https://manifold.xyz/@petra/p/kinetics) · 2025
+Audiovisual score where movement improvisation drives real-time generative visuals. The body as conductor. Published via Manifold.
 
-### About The Other Us (2024)
-Digital art series exploring identity and the digital other.
+---
 
-- **Platform:** [Daily.xyz](https://daily.xyz/artwork/petra-daily-program-season-1-about-the-other-us/)
+### [Bodies That Dance Alone](https://videodance.webs.upv.es/video/bodies-that-dance-alone-petra-mexico-2025-445/) · 2025
+Generative screendance investigating how human movement becomes signal — and what is lost in that translation.
 
+---
 
-## 🔧 Currently Building
+## Technical Stack
 
-- videodanza-nft: Full-stack generative art platform on Base (Next.js + Solidity)
-- Autonomous motion-to-art agents (SomaAgent)
-- Art Blocks integration for motion capture generative art
-- Generative music with SuperCollider (drones + electronic percussion)
+### Motion & Vision
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0099FF?style=flat-square&logo=google&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+Pose estimation (MediaPipe Holistic, BlazePose), hand tracking, gesture recognition, Laban Movement Analysis as analytical frame for motion data, real-time skeletal pipelines with StreamDiffusion integration.
+
+### AI & Agents
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+
+Local-first AI agent systems (Ollama, Qwen), LangChain / LangGraph orchestration, ViViT for video understanding, persistent memory pipelines, FastAPI microservices. Strong preference for on-device processing as an ethical and aesthetic commitment.
+
+### Creative Coding & Generative Systems
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![SuperCollider](https://img.shields.io/badge/SuperCollider-222222?style=flat-square)
+![TouchDesigner](https://img.shields.io/badge/TouchDesigner-000000?style=flat-square)
+
+Three.js for real-time 3D performance, WebGL shaders, SuperCollider for drone synthesis and generative audio, Max/MSP, TouchDesigner for audiovisual performance.
+
+### Web & Full-Stack
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+Next.js 14 full-stack, TypeScript, FastAPI + Python backends, Laravel integration experience, REST and WebSocket architectures.
+
+### Web3 & Smart Contracts
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-F6D600?style=flat-square)
+![Ethereum](https://img.shields.io/badge/Base-0052FF?style=flat-square&logo=ethereum&logoColor=white)
+
+Solidity (OpenZeppelin v5), Hardhat, L2 deployment (Base), Art Blocks integration, RainbowKit + Wagmi frontend, NFT minting pipelines, autonomous on-chain agents.
+
+---
+
+## Exhibitions & Festivals
+
+**Museums & Major Institutions**
+Museo de Arte Moderno (CDMX) · Salón de la Plástica Mexicana · CVPR Art Gallery · Aavistus Festival 2026 · InSILo Austria 2026 · EnProceso Costa Rica 2026 · MIVA Festival · Miami Art Week · Bitcoin Unleashed Amsterdam · ASVOFF 16 · NFT NYC · London Fashion Week
+
+**Performance & Dance**
+Nadére Arts Vivants · Baal Dance Company (Spain) · Encuentro Nacional de Danza · Festival Extremadura · FIDCCDMX
+
+**Institutions**
+INBAL · Secretaría de Hacienda y Crédito Público · Secretaría de Cultura Jalisco · Alianza Francesa México
+
+**DAOs**
+Bright Moments Art Gallery · Refraction DAO
+
+---
+
+## CryptoArt
+
+| Chain | Platform | Wallet |
+|-------|----------|--------|
+| Ethereum | [Foundation](https://foundation.app/@petra) · [Manifold](https://manifold.gallery/betapetra.eth) · [Daily](https://daily.xyz/artist/petra) · [OpenSea](https://opensea.io/0xe99c3ecbc68868602cf558325bc6ab6a9807dfa9) | `0xE99c3...dFa9` |
+| Bitcoin | [Gamma](https://beta.gamma.io/petra/) · [Scarce City](https://scarce.city/auctions/stamp-16944-01) · Ordinals / Stamps | — |
+| Tezos | [Objkt](https://objkt.com/profile/tz1cSxrvsct9FC33dCMwQGQkcwwHirHV1DzX/created) | `tz1cSxr...DzX` |
+
+---
+
+## Currently Building
+
+- `videodanza-nft` — generative art platform on Base, full-stack (Next.js + Solidity)
+- `SomaAgent` — autonomous motion-to-art on-chain agent
+- Art Blocks integration for motion capture generative collections
+- `TrailSynthesizer` — audio-reactive synthesizer with glitch-textured, apocalyptic drift aesthetic (RF-DETR + SuperCollider)
 - AI agent orchestration pipelines with persistent memory
 
 ---
 
-## 🌱 Currently Learning
+## Theoretical Frame
 
-- Advanced geospatial analysis for movement data
-- Non-linear models for motion forecasting
-- StreamDiffusion and real-time generative AI
-- Web3 integration for digital art sovereignty
-- Extended Reality (XR) for immersive experiences
-
----
-
-## 🏛️ Exhibitions & Festivals
-
-**Major Institutions & Museums**
-Museo de Arte Moderno MX | Salón de la Plástica Mexicana | Museo Chiapas de Ciencia y Tecnología | CVPR Art Gallery | Bitcoin Unleashed Amsterdam | ASVOFF 16 | Miami Art Week | Super Chief Gallery | Free The Kitsch Festival | Art Crush Gallery | China International Conference of Science and Education Producers | IDOCDE.net | London Fashion Week | NFT Festa | NFT NYC | Plexus Projects | Aavistus Festival (2026) | InSILo - Austria (2026) | EnProceso - Costa Rica (2026) | MIVA Festival
-
-**Performance & Dance**
-Nadére Arts Vivants | Baal Dance Company (Spain) | Encuentro Nacional de Danza | Festival Extremadura | Festival Onesimo González | FIDCCDMX
-
-**Institutions & Organizations**
-INBAL | Secretaría de Hacienda y Crédito Público | Secretaría de Cultura Jalisco | Alianza Francesa México
-
-**DAO Memberships**
-Bright Moments Art Gallery | Refraction DAO
-
----
-
-## 📫 Let's Connect
-
-🌐 **Website:** [petrasynthetic.com](https://petrasynthetic.com)
-📧 **Email:** dfrmnc22@gmail.com
-
----
-
-## 🛠️ Tech Stack & Tools
-
-**Programming & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-
-**Motion & Vision**
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0099FF?style=for-the-badge&logo=google&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-**Creative Software**
-![TouchDesigner](https://img.shields.io/badge/TouchDesigner-000000?style=for-the-badge)
-![Max/MSP](https://img.shields.io/badge/Max/MSP-522E91?style=for-the-badge)
-![SuperCollider](https://img.shields.io/badge/SuperCollider-222222?style=for-the-badge)
-
-**Web3 & Blockchain**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-F6D600?style=for-the-badge&logo=hardhat&logoColor=black)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
-
----
-
-## ⛓️ CryptoArt & Blockchain Stack
-
-I work across multiple blockchain ecosystems for digital art distribution and provenance:
-
-### 🔷 Ethereum (ETH)
-Smart contract platforms for high-value digital art and generative collections:
-
-[![Foundation](https://img.shields.io/badge/Foundation-000000?style=for-the-badge&logo=ethereum&logoColor=white)](https://foundation.app/@petra)
-[![Manifold](https://img.shields.io/badge/Manifold-000000?style=for-the-badge&logo=ethereum&logoColor=white)](https://manifold.gallery/betapetra.eth)
-[![Daily](https://img.shields.io/badge/Daily-000000?style=for-the-badge&logo=ethereum&logoColor=white)](https://daily.xyz/artist/petra)
-[![Nifty Gateway](https://img.shields.io/badge/NiftyGateway-000000?style=for-the-badge&logo=ethereum&logoColor=white)](https://www.niftygateway.com/collections/fracturedfacades-le)
-[![OpenSea](https://img.shields.io/badge/OpenSea-2081E2?style=for-the-badge&logo=opensea&logoColor=white)](https://opensea.io/0xe99c3ecbc68868602cf558325bc6ab6a9807dfa9)
-
-**ETH Wallet:** `0xE99c3Ecbc68868602CF558325BC6ab6A9807dFa9`
-
-### 🟨 Bitcoin (BTC)
-Bitcoin-native assets using Ordinals, Stamps, and Counterparty protocols:
-
-[![Gamma](https://img.shields.io/badge/Gamma-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)](https://beta.gamma.io/petra/)
-[![Scarce City](https://img.shields.io/badge/ScarceCity-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)](https://scarce.city/auctions/stamp-16944-01)
-[![PepeWTF](https://img.shields.io/badge/PepeWTF-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)](https://pepe.wtf/1L64Zam9tD/collection/stamps)
-
-### 🔷 Tezos (XTZ)
-Eco-friendly NFT marketplace for accessible digital art:
-
-[![Objkt](https://img.shields.io/badge/Objkt-0D61FF?style=for-the-badge&logo=tezos&logoColor=white)](https://objkt.com/profile/tz1cSxrvsct9FC33dCMwQGQkcwwHirHV1DzX/created)
-
-**Tezos Wallet:** `tz1cSxrvsct9FC33dCMwQGQkcwwHirHV1DzX`
-
-### 🔵 Blockchain
-Generative videodance minted on-chain via custom smart contracts:
-
-- videodanza-nft: Generative videodance platform with NFT minting
-
----
-
-## 💡 Artistic Statement
-
-> *"My practice explores the intersection of body, technology, and data sovereignty. I work at the convergence of dance, computer vision, and critical theory, creating interactive installations that interrogate how algorithmic systems capture and commodify human movement. I develop experimental platforms using open-source technologies to democratize access to motion analysis tools while maintaining ethical principles of local data processing and privacy."*
-
----
-
-## 📁 Collections Overview
-
-### 🔷 Ethereum-Based Works
-- **About The Other Us** - AI-generated portraits exploring digital identity
-- **Vectofascismo** - Political commentary through vector graphics
-- **ChingonX** - NFT activism and derivative works
-- **Fractured Facades** - Architecture and fragmentation series
-- **Genes** - Biological and generative coding explorations
-- **MoveInPrompts** - Movement-based AI prompt collections
-- **Genes V3** - Evolution of biological generative art
-- **AI** - Artificial intelligence experiments
-- **Yapayaso** - Cultural meme and generative works
-- **Gen Art** - Generative art curation
-
-### 🟨 Bitcoin Ecosystem
-- **Collective Consciousness** - On-chain collective memory
-- **Cypher - Infinite Environment** - Bitcoin-native generative environments
-- **Pixel Cascade** - Ordinal pixel art series
-- **Stamps & Ordinals** - Immutable on-chain digital artifacts
-
-### 🔷 Tezos Works
-- **2554Cai** - Clean NFT generative experiments
-- **Ki** - Minimalist generative art
-- **Color Studies in Motion** - Animated color theory works
+Work developed in dialogue with: **André Lepecki** (exhaustion of movement as political gesture), **Donna Haraway** (situated knowledge, companion species), **Rosi Braidotti** (posthuman subjectivity), **Bruno Latour** (actor-network theory applied to body-machine assemblages), **Joana Chicau** (web as choreographic score).
 
 ---
 
 *"Una estética que abraza la imperfección, la corrupción de datos y la materialidad de lo digital."*
+
+---
+
+**KineticAI · Microversos Ludografías Transmedia**  
+[petrasynthetic.com](https://petrasynthetic.com) · CDMX · 2026
