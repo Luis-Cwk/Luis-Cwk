@@ -15,8 +15,8 @@ I treat technology as **performative and process-visible**, not merely productiv
 
 ## Active Projects
 
-### [Cuerpos Soberanos: Agente](https://petrasynthetic.com) · 2025–2026
-Interactive installation exploring data sovereignty over the moving body. A local AI agent (no cloud, no external logging) processes real-time pose estimation and generates diffused visual responses — making visible the gap between what a body does and what a system sees.
+### [Cuerpos Soberanos: Agente](https://petrasynthetic.com/agente) · 2025–2026
+Interactive installation exploring data sovereignty over the moving body. A local AI agent (no cloud, no external logging) processes real-time pose estimation and generates diffused visual responses - making visible the gap between what a body does and what a system sees.
 
 `MediaPipe` · `LangChain` · `Ollama / Qwen` · `ViViT` · `StreamDiffusion` · `Python` · `OpenCV`
 
@@ -125,7 +125,7 @@ Bright Moments Art Gallery · Refraction DAO
 
 ## Theoretical Frame
 
-Work developed in dialogue with: **André Lepecki** (exhaustion of movement as political gesture), **Donna Haraway** (situated knowledge, companion species), **Rosi Braidotti** (posthuman subjectivity), **Bruno Latour** (actor-network theory applied to body-machine assemblages), **Joana Chicau** (web as choreographic score).
+Work developed in dialogue with: **André Lepecki** (exhaustion of movement as political gesture), **Donna Haraway** (situated knowledge, companion species), **Bruno Latour** (actor-network theory applied to body-machine assemblages), **Joana Chicau** (web as choreographic score).
 
 ---
 
